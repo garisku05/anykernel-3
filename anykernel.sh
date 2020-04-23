@@ -18,6 +18,8 @@ device.name5=vince
 device.name6=redmi5plus
 device.name7=lavender
 device.name8=redminote7
+device.name9=ugglite
+device.name10=redminote5alite
 supported.versions=
 supported.patchlevels=
 '; } # end properties
