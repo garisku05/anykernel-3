@@ -4,22 +4,15 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Hoi Bro!
+kernel.string=Welcome to the Undead World!
 do.devicecheck=1
 do.modules=0
 do.systemless=0
 do.cleanup=1
 do.cleanuponabort=1
-device.name1=rolex
-device.name2=redmi4a
-device.name3=riva
-device.name4=redmi5a
-device.name5=vince
-device.name6=redmi5plus
-device.name7=lavender
-device.name8=redminote7
-device.name9=ugglite
-device.name10=redminote5alite
+device.name1=ugglite
+device.name2=riva
+device.name3=rolex
 supported.versions=
 supported.patchlevels=
 '; } # end properties
