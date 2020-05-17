@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Welcome to the Undead World!
+kernel.string=Selamat menjalankan ibadah puasa, sar :)
 do.devicecheck=1
 do.modules=0
 do.systemless=0
