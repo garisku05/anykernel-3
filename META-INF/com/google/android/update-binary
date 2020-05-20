@@ -191,7 +191,7 @@ if [ $? != 0 -o -z "$(ls bin)" ]; then
   abort "Busybox setup failed. Aborting...";
 fi;
 
-ui_print " Broken-Kernel ";
+ui_print " Ugglite Kernel ";
 ui_print "= $(file_getprop anykernel.sh kernel.string)";
 
 $BOOTMODE || $bb mount -o bind /dev/urandom /dev/random;
