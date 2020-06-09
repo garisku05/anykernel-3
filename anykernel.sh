@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Selamat menjalankan ibadah puasa, sar :)
+kernel.string=4 U Kernel, brought to you by @andeh24
 do.devicecheck=1
 do.modules=0
 do.systemless=0
